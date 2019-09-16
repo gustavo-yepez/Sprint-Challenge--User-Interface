@@ -51,6 +51,15 @@ table {
     box-sizing: border-box;
 }
 
+nav{
+    display:flex;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    display:flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
@@ -104,7 +113,6 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -143,4 +151,44 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+.one{
+    background-color: teal;
+    }
+
+.two{
+    background-color: gold;
+}
+
+.three{
+    background-color: cadetblue;
+}
+
+.four{
+    background-color: coral;
+}
+
+.five{
+    background-color: crimson;
+}
+
+.six{
+    background-color: forestgreen;
+}
+
+.seven{
+    background-color: darkorchid;
+}
+
+.eight{
+    background-color: hotpink;
+}
+
+.nine{
+    background-color: indigo;
+}
+
+.ten{
+    background-color: dodgerblue;
 }
