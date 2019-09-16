@@ -34,9 +34,16 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+for me, semantic HTML is writing HTML tags very clean and understandable for when other people read it or work on it.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+display block makes all the elements verticle 
+
+
 3. What are the 4 areas of the box model?
+
+Margin, Boreder, Padding 
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
